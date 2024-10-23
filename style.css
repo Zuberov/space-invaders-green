@@ -42,16 +42,16 @@ body {
 }
 
 .invader {
-  background-color: black;
-  border-radius: 10px;
+  background-color: #2cff95;
+  border-radius: 8px;
 }
 
 .shooter {
-  background-color: black;
+  background-color: #2cff95;
 }
 
 .laser {
-  background-color: #2cff95;
+  background-color: white;
 }
 
 .boom {
