@@ -25,7 +25,8 @@ body {
 .grid {
   width: 300px;
   height: 300px;
-  border: solid white 10px;
+  border: solid #2cff95 3px;
+  
   display: flex;
   flex-wrap: wrap;
 }
@@ -41,12 +42,12 @@ body {
 }
 
 .invader {
-  background-color: #2cff95;
+  background-color: black;
   border-radius: 10px;
 }
 
 .shooter {
-  background-color: #2cff95;
+  background-color: black;
 }
 
 .laser {
@@ -58,7 +59,7 @@ body {
 }
 
 .results {
-  color: #2cff95;
+  color: white;
   font-family: "OCR A Extended", monospace;
   text-shadow: 4px 4px 4px black;
 }
